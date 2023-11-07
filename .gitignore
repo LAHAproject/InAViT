@@ -1,0 +1,12 @@
+checkpoints/
+checkpoints_hoivit_woimp_ek/
+checkpoints_hoivit_woimp_ssv2/
+checkpoints_orvit_ssv2/
+runs-epickitchens/
+data_cache/
+CP/
+backup/
+detectron2/
+epic-kitchens-100-hand-object-bboxes/
+checkpoints
+att_maps
