@@ -90,4 +90,4 @@ This code is based on the repositories of [ORVIT](https://github.com/eladb3/ORVi
 This research/project is supported in part by the National Research Foundation, Singapore under its AI Singapore Program (AISG Award Number: AISG-RP-2019-010) and by the National Research Foundation Singapore and DSO National Laboratories under the AI Singapore Programme (AISG Award No: AISG2-RP-2020-016). This research is also supported by funding allocation to B.F. by the Agency for Science, Technology and Research (A*STAR) under its SERC Central Research Fund (CRF), as well as its Centre for Frontier AI Research (CFAR).
 
   
-In case of issues, please write to debadityaroy5555 at gmail dot com
+In case of issues, please write to roy_debaditya [at] ihpc [dot] a-star [dot] edu [dot] sg
