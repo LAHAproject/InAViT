@@ -33,7 +33,7 @@ If you find this code useful and use this code, please cite our paper
   ```
   Then, install the following packages:
 
-  * torchvision: pip install torchvision or conda install torchvision -c pytorch
+  * torchvision: pip install torchvision
   * fvcore: pip install 'git+https://github.com/facebookresearch/fvcore'
   * simplejson: pip install simplejson
   * einops: pip install einops
