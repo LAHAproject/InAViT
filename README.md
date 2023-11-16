@@ -28,8 +28,8 @@ If you find this code useful and use this code, please cite our paper
 # Installation
   First, create a conda virtual environment and activate it:
   ```
-  conda create -n inavit python=3.8.5 -y
-  source activate inavit
+  virtualenv -p /path/to/python3.8 inavit 
+  source inavit/bin/activate
   ```
   Then, install the following packages:
 
