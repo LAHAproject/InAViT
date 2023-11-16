@@ -38,7 +38,6 @@ If you find this code useful and use this code, please cite our paper
   * simplejson: pip install simplejson
   * einops: pip install einops
   * timm: pip install timm
-  * PyAV: conda install av -c conda-forge
   * psutil: pip install psutil
   * scikit-learn: pip install scikit-learn
   * OpenCV: pip install opencv-python
@@ -47,6 +46,7 @@ If you find this code useful and use this code, please cite our paper
   * pandas: pip install pandas
   * ffmeg: pip install ffmpeg-python 
   * decord: pip install decord
+  * PyAV: pip install av
   * filterpy: pip install filterpy
   * h5py: pip install h5py 
 
