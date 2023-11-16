@@ -26,7 +26,7 @@ If you find this code useful and use this code, please cite our paper
 ```
 
 # Installation
-  First, create a conda virtual environment and activate it:
+  First, create a virtual environment and activate it:
   ```
   virtualenv -p /path/to/python3.8 inavit 
   source inavit/bin/activate
