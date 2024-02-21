@@ -79,7 +79,7 @@ If you find this code useful and use this code, please cite our paper
   * Please edit the parameters NUM_GPUS, TRAIN.BATCH_SIZE to accomodate to your GPUs.
 
 # Testing 
-  Pretrained model is available (here)[https://drive.google.com/file/d/1UEqI3QwiruV_Y4sZbzDxZWgY_IYuedPu/view]. Put it in `checkpoints`
+  Pretrained model is available (here)[https://drive.google.com/file/d/1UEqI3QwiruV_Y4sZbzDxZWgY_IYuedPu/view]. Put it in `checkpoints/`
   
   ``` python tools/run_net.py --cfg configs/INAVIT/EK_INAVIT_MF_ant.yaml TRAIN.ENABLE False TEST.ENABLE True```
   
