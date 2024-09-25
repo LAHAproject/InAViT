@@ -52,7 +52,7 @@ If you find this code useful and use this code, please cite our paper
 
 # Bounding Box Extraction
   * ~~Extract hand and object box features for EK100 using https://github.com/ddshan/hand_object_detector~~
-  * [NEW] h5 file for EK100 is available [here](https://zenodo.org/records/13836237?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY0ZTg3NDUyLWU5MzUtNGE3My05MzRjLTNhNzQwNjI3MWIwMiIsImRhdGEiOnt9LCJyYW5kb20iOiIzYjU0YTViY2I1YzcwNTI1NjZlMmZiYjU0OWE5MDcwMSJ9.qp_tXZdOCCHvb6ekA_eVjdnE7UjVyE3dwCZQzVceb55Zk-SHaJS3EsGmvONyljEUm8eGS96AcrPOUA1e2ESMgA)
+  * [NEW] h5 file for EK100 is available [here](https://zenodo.org/records/13836237?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImNjYWE1M2M5LWZlNWQtNGFiMS05OWEyLTRiMDkxNWYwY2ViMiIsImRhdGEiOnt9LCJyYW5kb20iOiJhY2M2OGJlYTAwNWU0ZTc1YzMxYmEyZDE3NzI3ZGQ3NiJ9.c-jEfOc9VPHMpQ_XtA2P5KaeLEdrsUNTtruJxeyBe3KtBdWX5IxnxcZLAAPD4ok2jf5Z21fWxX5FCfL-339eJA)
   * Store as h5 file into data_cache/linked_boxes/epickitchens.h5
 
 # Setup
